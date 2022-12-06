@@ -41,7 +41,7 @@ public class LeetCode_Problem_50 {
         if (!flag) {
             result = 1/result;
         }
-        // else return the result in that case.
+        // else return the result in that case
         return result;
 
     }
