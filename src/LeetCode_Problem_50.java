@@ -1,6 +1,6 @@
 public class LeetCode_Problem_50 {
     public static void main(String[] args) {
-        System.out.println(myPow(8.95371,-1));
+        System.out.println(myPow(2,2));
     }
 
     public static double myPow(double x, int n) {
