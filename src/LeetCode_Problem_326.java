@@ -2,6 +2,7 @@ public class LeetCode_Problem_326 {
     public static void main(String[] args) {
         System.out.println(isPowerOfThree(16));
     }
+    //Recursive Solution;
     public static boolean isPowerOfThree(int n) {
         if (n == 0) {
             return false;
