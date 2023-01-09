@@ -85,7 +85,7 @@ public class LeetCode_Problem_33 {
         }
 
         // check if the target element is greater than the middle element
-        // also check for the if target element is smaller than the end element..
+        // also check for the if target element is smaller than the end element...
         if (arr[mid] <= target && target<=arr[e]) {
             // in such case reduce the search space to the left space ie s = mid +1 ..
             return solutionByRecursion(arr,target,mid+1,e);

@@ -1,6 +1,6 @@
 public class LeetCode_Problem_9 {
     public static void main(String[] args) {
-        System.out.println(isPalindrome(100));
+        System.out.println(isPalindrome(101));
 
     }
 

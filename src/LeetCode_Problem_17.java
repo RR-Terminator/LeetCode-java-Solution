@@ -3,7 +3,7 @@ import java.util.List;
 
 public class LeetCode_Problem_17 {
     public static void main(String[] args) {
-        System.out.println(letterCombinations("1"));
+        System.out.println(letterCombinations("23"));
     }
 
     public static List<String> letterCombinations(String digits) {
